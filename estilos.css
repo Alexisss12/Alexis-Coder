@@ -5,3 +5,7 @@
 body{
     background-color: red;
 }
+h2{
+    text-transform: uppercase;
+    color: red;
+}
